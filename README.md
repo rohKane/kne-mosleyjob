@@ -1,11 +1,12 @@
 # kne-mosleyjob
 
 ![image](https://github.com/rohKane/kne-mosleyjob/assets/47999933/dffbcd73-b155-42d0-a740-77e194bd133e)
-![image](https://github.com/rohKane/kne-mosleyjob/assets/47999933/9f55f912-8251-4164-b986-55a68ca0882f)
-![image](https://github.com/rohKane/kne-mosleyjob/assets/47999933/4a9ba81d-4ad8-4daf-a75c-9786dfbf41dc)
 
 **Kne-mosleyjob**
 Kne mosley job is a job where you start off by going to the assigned location to pick up the customer vehicle, then you bring it to Mosley's Auto to have it upgraded. After the vehicle has been upgraded, you have to return it to the original pickup location. Upon successful completion of the task, you’ll receive a paycheck and some bonus items.
+
+![image](https://github.com/rohKane/kne-mosleyjob/assets/47999933/9f55f912-8251-4164-b986-55a68ca0882f)
+![image](https://github.com/rohKane/kne-mosleyjob/assets/47999933/4a9ba81d-4ad8-4daf-a75c-9786dfbf41dc)
 
 [Preview Video](https://www.youtube.com/watch?v=oMC0PsR_MUA)
 [Buy Here | kne-mosleyjob (tebex.io)](https://kane-shop.tebex.io/package/6185418)
