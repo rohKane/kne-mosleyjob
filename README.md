@@ -1,12 +1,8 @@
 # kne-mosleyjob
 
-![image|690x309](upload://r1YA6nrlq2F25b2sSIWLIgi7B8y.jpeg)
-![image|690x355](upload://iV3AyeZjNi0NS7CSFST6wbwkHaN.jpeg)
-![image|690x398](upload://ikujZ3zCyAVsBw2V99KbhwCp2Hq.jpeg)
-
-
-
-
+![image](https://github.com/rohKane/kne-mosleyjob/assets/47999933/dffbcd73-b155-42d0-a740-77e194bd133e)
+![image](https://github.com/rohKane/kne-mosleyjob/assets/47999933/9f55f912-8251-4164-b986-55a68ca0882f)
+![image](https://github.com/rohKane/kne-mosleyjob/assets/47999933/4a9ba81d-4ad8-4daf-a75c-9786dfbf41dc)
 
 **Kne-mosleyjob**
 Kne mosley job is a job where you start off by going to the assigned location to pick up the customer vehicle, then you bring it to Mosley's Auto to have it upgraded. After the vehicle has been upgraded, you have to return it to the original pickup location. Upon successful completion of the task, you’ll receive a paycheck and some bonus items.
@@ -34,4 +30,3 @@ Kne mosley job is a job where you start off by going to the assigned location to
 * Change Sign In location
 * Add more or remove customer peds
 * Enable or disable Mosley's Auto Blip
-* 
