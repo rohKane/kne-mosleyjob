@@ -9,7 +9,7 @@ Kne mosley job is a job where you start off by going to the assigned location to
 
 [Preview Video](https://www.youtube.com/watch?v=oMC0PsR_MUA)
 
-[Buy Here | kne-mosleyjob (tebex.io)](https://kane-shop.tebex.io/package/6185418)
+[Get it here | kne-mosleyjob (tebex.io)](https://kane-shop.tebex.io/package/6185418)
 
 **In case you want to use your own way of signing in, you can do so by changing Config.SignInTarget to false within the config file and then using this client-side trigger code down below to sign in.**
 > TriggerEvent('kne-mj:SignIn')
